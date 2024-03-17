@@ -5,3 +5,5 @@
 ### Adding table
 + Stack of technologies
 + And so on
+### Adding emojie
+:nauseated_face: emojie
