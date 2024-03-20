@@ -6,9 +6,9 @@ Application to display a list of cryptocurrency, changes in real-time, displayin
 Swift, SwiftUI, Combine, MVVM, NavigationStack, GeometryReader 
 
 ![Here is the first image from my github Assets file](https://github.com/aviator67x/Andrii_Kasilov_iOS_Developer/blob/master/cryptoShot1.png)
-![Here is the first image from my github Assets file](https://github.com/aviator67x/Andrii_Kasilov_iOS_Developer/blob/master/dude.png)
+![Here is the second one](https://github.com/aviator67x/Andrii_Kasilov_iOS_Developer/blob/master/cryptoShot2.png)
 
-![Here is the second one](https://github.com/aviator67x/Andrii_Kasilov_iOS_Developer/blob/master/crypto1.png)
+
 ### Adding table
 + Stack of technologies
 + And so on
