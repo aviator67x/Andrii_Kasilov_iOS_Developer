@@ -3,8 +3,8 @@
 ## Crypto Tracker app: 
 Application to display a list of cryptocurrency, changes in real-time, displaying a statistics chart for seven days. Ability to add available currency and track your statistics.
 
-![Here is the first image from my github Assets file](https://github.com/aviator67x/Andrii_Kasilov_iOS_Developer/blob/master/cryptoShot11.png)
-![Here is the second one](https://github.com/aviator67x/Andrii_Kasilov_iOS_Developer/blob/master/cryptoShot2.png)
+[comment]: <> (https://github.com/aviator67x/Andrii_Kasilov_iOS_Developer/blob/master/cryptoShot11.png)
+[comment]: <> (https://github.com/aviator67x/Andrii_Kasilov_iOS_Developer/blob/master/cryptoShot2.png)
 
 ### Technologies:
 Swift, SwiftUI, Combine, MVVM, NavigationStack, GeometryReader, third-party libraries: FirebaseCore, CocoaCombine
@@ -54,5 +54,3 @@ Swift, UIKit, Foundation, CoreLocation, MapKit 
 - Implemented navigation features using CoreLocation, enhancing the application's spatial awareness.
 - Contributed to UI component development and integrated robust business logic for a seamless and feature-rich application.
 
-
-:nauseated_face: emojie
