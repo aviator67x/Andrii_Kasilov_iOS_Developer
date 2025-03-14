@@ -1,13 +1,14 @@
  # Andrii Kasilov, iOS Developer
 ## My projects:
-##VPN App:
+## VPN App:
 VPN mobile application designed to provide users with access to regionally restricted content by switching to VPN servers in different locations. The app offers a seamless way to bypass geo-restrictions while ensuring user security and privacy. A key feature of GlobePass VPN is its strong localization support, making it intuitive and accessible for users worldwide.
 ### Technologies:
 Swift, SwiftUI, MVVM, Combine, Amplitude Swift, Adapty, Firebase RemoteConfig
 ### Contribution
 Led iOS development
 
-##This concept focuses on developing a diverse range of apps in the gaming and productivity space, integrating AI-driven prompts and assistance to enhance user engagement. The project will include:
+## Games:
+This concept focuses on developing a diverse range of apps in the gaming and productivity space, integrating AI-driven prompts and assistance to enhance user engagement. The project will include:
 	•	Casual & Puzzle Games (e.g., Falling Candies, Word Games, Brain Teasers)
 	•	Sports Event Trackers (real-time scores, AI-driven predictions)
 	•	Daily Activity Reminders (habit tracking, AI-generated motivational prompts)
