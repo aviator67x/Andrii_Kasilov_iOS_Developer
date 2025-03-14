@@ -1,7 +1,28 @@
  # Andrii Kasilov, iOS Developer
 ## My projects:
+##VPN App:
+VPN mobile application designed to provide users with access to regionally restricted content by switching to VPN servers in different locations. The app offers a seamless way to bypass geo-restrictions while ensuring user security and privacy. A key feature of GlobePass VPN is its strong localization support, making it intuitive and accessible for users worldwide.
+### Technologies:
+Swift, SwiftUI, MVVM, Combine, Amplitude Swift, Adapty, Firebase RemoteConfig
+### Contribution
+Led iOS development
+
+##This concept focuses on developing a diverse range of apps in the gaming and productivity space, integrating AI-driven prompts and assistance to enhance user engagement. The project will include:
+	•	Casual & Puzzle Games (e.g., Falling Candies, Word Games, Brain Teasers)
+	•	Sports Event Trackers (real-time scores, AI-driven predictions)
+	•	Daily Activity Reminders (habit tracking, AI-generated motivational prompts)
+The goal is to create engaging apps that combine entertainment and productivity, leveraging AI for personalization, habit-building, and dynamic gameplay.
+### Technologies:
+Swift, SwiftUI, MVVM, Combine, SpriteKit, OpenAi
+### Contribution
+- Designed and implemented scalable, maintainable architecture.
+-	Developed and optimized core business logic and data flow. 
+- Ensured smooth integration with backend APIs.
+- Implemented responsive and adaptive UI following Apple's Human Interface Guidelines.
+- Optimized app for speed, memory efficiency, and battery life.
+  
 ## Crypto Tracker app: 
-Application to display a list of cryptocurrency, changes in real-time, displaying a statistics chart for seven days. Ability to add available currency and track your statistics.
+The application will display a list of cryptocurrency changes in real-time, displaying a statistics chart for seven days. Ability to add available currency and track your statistics.
 
 [comment]: <> (https://github.com/aviator67x/Andrii_Kasilov_iOS_Developer/blob/master/cryptoShot11.png)
 [comment]: <> (https://github.com/aviator67x/Andrii_Kasilov_iOS_Developer/blob/master/cryptoShot2.png)
@@ -22,7 +43,7 @@ Swift, UlKit, Combine, MVVM, Foundation, URLSession, SwiftGen, UserDefaults, Key
 - Developed customized UI components for every screen, emphasizing a consistent and visually appealing user interface.
 - Conducted rigorous bug fixing and facilitated thorough testing by uploading the application to TestFlight for comprehensive evaluation.
 ## Social
-An application that allows elderly people to not feel alone.  It has two types of UI, exactly the elderly person and their family member, both of which use AI to communicate. A cartoon character says its news and recommendations based on the habits of the app’s customers. Every time the app gets answers from the customer it transfers them to API to develop the skills of the ML model.
+An application that allows elderly people to feel not alone.  It has two types of UI, exactly the elderly person and their family member, both of which use AI to communicate. A cartoon character says it's news and recommendations based on the habits of the app’s customers. Every time the app gets answers from the customer, it transfers them to the API to develop the skills of the ML model.
 ### Technologies:
 Swift, SwiftUI, UIKit, MVVM, Combine, AVFoundation, Speech, Localization, ChatGPT API, third-party libraries: SnapKit, SwiftGen, SwiftFormat, MicrosoftSpeech
 ### Contribution
@@ -36,18 +57,18 @@ Swift, UIKit, MVP+Coordinator, URLSession, Keychain, UserDefaults, Notification 
 ### Contribution
 - Development of a robust network layer, ensuring efficient data communication.
 - Crafted a flexible network request model to handle diverse communication requirements.
-- Developed and implemented a veryfied text field which was reused in the whole project .
+- Developed and implemented a verified text field which was reused in the whole project.
 - Designed a custom camera interface for the main application flow,
 ## Alilo App
 The Bunny Alilo app simulates the children's toy Alilo. Its purpose is to entertain children with children's songs, stories, melodies, and sounds, as well as the beautiful animation of Alilo Bunny's ears.  The users can move the virtual Alilo bunny on the screen over the different colored cards, the number of which can be changed. When the bunny hovers over one of these colored cards, the bunny's ears start blinking in the color of the card. 
-### Techologies:
-Swift, UIKit, Foundation, Core Animation, Core Graphic, AVFoundation 
+### Technologies:
+Swift, UIKit, Foundation, Core Animation, Core Graphics, AVFoundation 
 ### Contribution
 - Led the design and development of a dynamic user interface, incorporating Core Graphics for precise drawing and Core Animation for engaging motion effects.
 - Contributed to UI component development, ensuring seamless integration with the overall design.
 ## Travel Map
-Application that paves the route on the map from point A to point B. The application simplifies the process of traveling and allows you to quickly find the shortest way to your destination, as well as a few alternative routes. 
-### Techologies:
+The application that paves the route on the map from point A to point B. The application simplifies the process of traveling and allows you to quickly find the shortest way to your destination, as well as a few alternative routes. 
+### Technologies:
 Swift, UIKit, Foundation, CoreLocation, MapKit 
 ### Contribution
 - Led the design and development of an intuitive user interface, focusing on visual appeal and user experience.
